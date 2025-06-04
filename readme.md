@@ -225,21 +225,6 @@ No **Python**, instale as dependências (`google-generativeai` e `flask`) e depo
         * Debugger PIN: 274-952-926
 
 Abra no navegador o endereço: http://127.0.0.1:5000 e aparecerá algo assim:
-![](https://blogdozouza.wordpress.com/wp-content/uploads/2025/01/1.png)
-
-Vamos testar... vamos perguntar: **O que é SQL?** e clique em **Enviar**...
-A resposta é algo assim:
-
-![](https://blogdozouza.wordpress.com/wp-content/uploads/2025/01/6.png)
-
-Vamos fazer outra interação: **Me dê um exemplo de um SELECT simples**.
-
-![](https://blogdozouza.wordpress.com/wp-content/uploads/2025/01/5.png)
-
-E todo o **Histórico** da conversa fica guardado durante a seção...
-![](https://blogdozouza.wordpress.com/wp-content/uploads/2025/01/4.png)
-
----
 
 ### Publicar
 
@@ -249,7 +234,6 @@ A etapa de publicação é crucial no ciclo de desenvolvimento, pois amplia a ac
 
 Siga as instruções da documentação do PythonAnywhere para configurar seu ambiente e fazer o deploy da aplicação.
 
-Quer ver funcionando? [Só conferir aqui!](https://alexsouza.pythonanywhere.com/)
 
 ---
 
